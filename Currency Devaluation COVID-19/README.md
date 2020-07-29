@@ -3,9 +3,9 @@ This analysis shows how Brazilian Real was one of the worst currencies in the CO
 _______
 ### [BRL devaluation vs US Dollar](Currency Devaluation COVID-19/Currency Devaluation analysis.R)
 
-![Alt text](Currency Devaluation COVID-19/BRL_devaluation_ptbr.png?raw=true)
+![Alt text](BRL_devaluation_ptbr.png?raw=true)
 
 _______
 ### [BRL devaluation with comments](Currency Devaluation COVID-19/Currency Devaluation analysis.R)
 
-![Alt text](Currency Devaluation COVID-19/BRL_devaluation_ptbr_events.png?raw=true)
+![Alt text](BRL_devaluation_ptbr_events.png?raw=true)
