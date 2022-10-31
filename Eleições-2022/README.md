@@ -4,4 +4,4 @@ The data were taken from the official Superior Electoral Court of Brazil - Tribu
 
 The final chart can be seen below.
 
-![Alt text](Eleições-2022/resultado_final.png?raw=true)
+![Alt text](resultado_final.png?raw=true)
